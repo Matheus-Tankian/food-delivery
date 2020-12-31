@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![HOME](https://github.com/Matheus-Tankian/food-delivery/blob/main/video/food%20delivery.mp4)
+![Home](https://github.com/Matheus-Tankian/food-delivery/blob/main/video/food%20delivery.gif)
 
 ## Getting Started
 
